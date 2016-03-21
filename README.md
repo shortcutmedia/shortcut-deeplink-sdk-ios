@@ -1,3 +1,11 @@
+# IMPORTANT: this SDK has been deprecated
+
+The functionality of the Shortcut Deep Linking SDK have been integrated into [Shortcut for iOS](https://github.com/shortcutmedia/shortcut-ios). Please use [Shortcut for iOS](https://github.com/shortcutmedia/shortcut-ios) instead of the Shortcut Deep Linking SDK.
+
+If you have already integrated the Shortcut Deep Linking SDK into your app then please follow the [Migration Guide](https://github.com/shortcutmedia/shortcut-ios#migrating-from-the-shortcut-deep-linking-sdk) to upgrade your app to use the new SDK.
+
+---
+
 # Shortcut Deep Linking SDK for iOS
 
 This SDK provides the following features:
